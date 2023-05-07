@@ -10,7 +10,7 @@ year with GDPs according to the country.
 
 ## Methods used
 In this project, I used a SQlite database to store and query all information. For visualization and data cleaning, I used pandas, NumPy and Matplotlib
-libraries to dissect data
+libraries to dissect data.
 
 ## Outcomes
 Afghanistan suffered from a sharp decrease in GDP in the year 2019 and began to recover in 2020. In 2021, we see that GDP begins to decrease again for Afghanistan.
