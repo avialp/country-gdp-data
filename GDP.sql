@@ -1,26 +1,26 @@
 SELECT * 
-FROM gdp
+FROM gdp;
 
-GROUP BY "country_code"
+GROUP BY "country_code";
 
 SELECT MAX("2013") 
-from gdp
+from gdp;
 
 SELECT MIN("2013") 
-from gdp
+from gdp;
 
 SELECT COUNT("country_name") 
-from gdp 
+from gdp;
 
 SELECT AVG("2013") 
-from gdp 
+from gdp;
 
 SELECT MIN("2021") 
-FROM gdp 
+FROM gdp; 
 
 SELECT MAX("2021") 
-FROM gdp
+FROM gdp;
 
 SELECT AVG("2021") 
-FROM gdp 
+FROM gdp;
 
